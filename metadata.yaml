@@ -1,0 +1,36 @@
+_repo: Modern-Magic_38448
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38448-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Schele de Vere, M. (Maximilian)
+    aliases:
+    - Vere, Schele de
+    - Vere, M. Schele de (Maximilian Schele)
+    - De Vere, M. Schele (Maximilian Schele)
+    - Vere, Maximilian Schele
+    - Vere, Maximilian Schele de
+    birthdate: 1820
+    deathdate: 1898
+    gutenberg_agent_id: '37112'
+    url: http://www.gutenberg.org/2009/agents/37112
+description: ''
+gutenberg_issued: '2011-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38448'
+  lccn: '28003269'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Occultism'
+- !lcc 'BF'
+- !lcsh 'Magic'
+tableOfContents: Witchcraft -- Black and white magic -- Dreams -- Visions -- Ghosts
+  -- Divination -- Possession -- Magnetism -- Miraculous cures -- Mysticism.
+title: Modern Magic
+url: http://www.gutenberg.org/ebooks/38448
